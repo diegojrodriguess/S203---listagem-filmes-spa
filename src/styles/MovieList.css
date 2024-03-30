@@ -1,0 +1,21 @@
+/* MovieList.css */
+
+.movie-list {
+    margin-top: 20px;
+  }
+  
+  .movie-item {
+    background-color: rebeccapurple;
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+  }
+  
+  .movie-title {
+    font-weight: bold;
+  }
+  
+  .movie-actors {
+    font-style: italic;
+  }
+  
